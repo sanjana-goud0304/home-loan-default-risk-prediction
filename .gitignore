@@ -7,6 +7,7 @@ Data/
 
 # Virtual environment
 venv/
+venv311/
 
 # Python
 __pycache__/
