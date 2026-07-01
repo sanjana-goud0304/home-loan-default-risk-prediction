@@ -1,20 +1,14 @@
+
+# Local development artifacts
+artifacts_local/
+
+# Local datasets
+Data/
+
 # Virtual environment
 venv/
 
-# Large datasets
-Data/
-*.csv
-
-# Large training artifacts
-artifacts/datasets/
-
-# Large search objects
-artifacts/search_objects/
-
-# Large Random Forest models
-artifacts/models/random_forest_*.pkl
-
-# Python cache
+# Python
 __pycache__/
 *.pyc
 
