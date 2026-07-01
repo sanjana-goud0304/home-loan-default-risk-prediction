@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+
+# Large datasets
+Data/
+*.csv
+
+# Large training artifacts
+artifacts/datasets/
+
+# Large search objects
+artifacts/search_objects/
+
+# Large Random Forest models
+artifacts/models/random_forest_*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
