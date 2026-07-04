@@ -9,6 +9,9 @@
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
+## 🚀 Live Demo
+
+🔗 https://sanjana-goud0304-home-loan-default-risk-prediction-app-nuoawv.streamlit.app/
 
 # 📌 Project Overview
 
