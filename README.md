@@ -1,6 +1,6 @@
 # 🏦 Home Loan Default Risk Prediction System
 
-> An end-to-end Machine Learning application for predicting the probability of home loan default using customer financial, demographic, and credit history information.
+> End-to-End Machine Learning System for Home Loan Default Risk Prediction using XGBoost, Feature Engineering, Threshold Optimization and Streamlit Deployment.
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
